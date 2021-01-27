@@ -16,7 +16,7 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
 <p>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-E10098?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-E10098?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-5849BE?style=flat-square&logo=spring&logoColor=white" />
     <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-8DD6F9?style=flat-square&logo=apache-kafka&logoColor=white" /> 
 </p>
