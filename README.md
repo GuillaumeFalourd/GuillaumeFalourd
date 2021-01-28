@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-<p align="center">
+<p>
 I'm a 🇫🇷  Software Developer living in 🇧🇷 and working at Zup Innovation.
 </p>
 
