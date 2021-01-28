@@ -2,9 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-<h3>
-I'm a 🇫🇷  Software Developer living in 🇧🇷 and working at Zup Innovation.
-</h3>
+### I'm a 🇫🇷  Software Developer living in 🇧🇷 and working at [Zup Innovation](www.zup.com.br).
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
