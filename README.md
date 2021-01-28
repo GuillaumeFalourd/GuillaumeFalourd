@@ -1,12 +1,12 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuillaumeFalourd&repo=GuillaumeFalourd&countColorcountColor) 
 
-<h1>🙋🏻‍♂️ Hello World !</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 ### Introduction 🃏
 
-My name is *Guiom*, I'm a 🇫🇷  Software Developer and Community Manager living in 🇧🇷 and working at [Zup Innovation](https://zup.com.br).
+My name is *Guiom*, I'm a 🇫🇷  Software Developer living in 🇧🇷 and working at [Zup Innovation](https://zup.com.br).
 
 ### Languages & Tools 🛠
 
