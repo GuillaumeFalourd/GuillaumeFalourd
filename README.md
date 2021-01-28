@@ -37,4 +37,4 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
 </p> -->
 
-![Snake animation](https://raw.githubusercontent.com/Guillaume/Guillaume/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
