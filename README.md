@@ -21,10 +21,12 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
     <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-8DD6F9?style=flat-square&logo=apache-kafka&logoColor=white" /> 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&count_private=true) [![](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![Github stats](https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd&hide_border=true)
+
+[![Profile summary](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p><a href="https://github.com/GuillaumeFalourd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/GuiFalourd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guillaumefalourd" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@guillaume.falourd" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="guillaume.falourd@zup.com.br" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
