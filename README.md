@@ -21,9 +21,13 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
     <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-8DD6F9?style=flat-square&logo=apache-kafka&logoColor=white" /> 
 </p>
 
-![Profile summary](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/0-profile-details.svg) ![Commits Langs](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/2-most-commit-language.svg)
+![Commits Langs](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/2-most-commit-language.svg)
 
-![Github stats](https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&count_private=true)
+
+![Github stats](https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true)
+
+![Profile summary](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/0-profile-details.svg) 
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd&hide_border=true)
 
