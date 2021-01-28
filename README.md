@@ -33,7 +33,7 @@
 
 ### Analytics ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd)
 
 <p align="left">
 <a href="https://github.com/AVS1508">
