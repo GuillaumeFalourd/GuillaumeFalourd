@@ -1,14 +1,14 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuillaumeFalourd&repo=GuillaumeFalourd&countColorcountColor) 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<h1>🙋🏻‍♂️ Hello World !</h1>
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-I'm a Software Developer and Community Manager at [Zup Innovation](https://zup.com.br).
+### Introduction 🃏
 
-Feel free to ask me anything about ZupIT open source products: [CharlesCD](https://github.com/ZupIT/charlescd) | [Ritchie CLI](https://github.com/ZupIT/ritchie-cli) | [Beagle](https://github.com/ZupIT/beagle) | [Horusec](https://github.com/ZupIT/horusec)
+My name is *Guiom*, I'm a 🇫🇷  Software Developer and Community Manager living in 🇧🇷 and working at [Zup Innovation](https://zup.com.br).
 
-### Languages and Tools 🛠
+### Languages & Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
@@ -50,7 +50,7 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
 </p> -->
 
-### Let's connect 🤝🏻
+### Let's connect ? 🤝🏻
 
 <p align="left">
 <a href="https://linkedin.com/in/guillaumefalourd"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
