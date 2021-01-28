@@ -36,3 +36,5 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
   <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
 </p> -->
+
+![Snake animation](https://raw.githubusercontent.com/Guillaume/Guillaume/output/github-contribution-grid-snake.svg)
