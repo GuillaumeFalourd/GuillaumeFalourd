@@ -1,4 +1,4 @@
-name: Summary-Cards
+name: My-Workflows
 
 on:
   schedule: # execute every 24 hours
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-  
+
     name: Generate Summary Cards
     runs-on: ubuntu-latest
     steps:

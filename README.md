@@ -2,6 +2,10 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
+<p align="center">
+I'm a 🇫🇷  Software Developer living in 🇧🇷 and working at Zup Innovation.
+</p>
+
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
@@ -10,11 +14,6 @@
 <a href="hhttps://twitter.com/GuiFalourd"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://medium.com/@guillaume.falourd"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
 <a href="https://dev.to/guifalourd"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
-</p>
-
-
-<p align="center">
-I'm a 🇫🇷  Software Developer living in 🇧🇷 and working at Zup Innovation.
 </p>
 
 ### Languages & Tools 🛠
