@@ -10,18 +10,26 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
 
 ### Languages and Tools 🛠
 
-<p>
-    <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
-    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-311C87?style=flat-square&logo=kotlin&logoColor=white" />
-    <img alt="Golang" src="https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=go&logoColor=white" />
-    <img alt="Shell" src="https://img.shields.io/badge/-Shell-F7B93E?style=flat-square&logo=shell&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-764ABC?style=flat-python&logo=redux&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-E10098?style=flat-square&logo=mysql&logoColor=white" />
-    <img alt="Spring" src="https://img.shields.io/badge/-Spring-5849BE?style=flat-square&logo=spring&logoColor=white" />
-    <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-8DD6F9?style=flat-square&logo=apache-kafka&logoColor=white" /> 
-</p>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=A8B9CC)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=092E20)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
 ### Let's connect 🤝🏻
 
@@ -29,11 +37,14 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
 
 ### Analytics ⚙️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&count_private=true)
-
-![Github stats](https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true)
-
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd&hide_border=true)
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuillaumeFalourd&show_icons=true&&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&langs_count=8"/>
+</a>
+</p>
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
