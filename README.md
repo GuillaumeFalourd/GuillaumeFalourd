@@ -2,6 +2,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
 I'm a Software Developer and Community Manager at [Zup Innovation](https://zup.com.br).
 
 Feel free to ask me anything about ZupIT open source products: [CharlesCD](https://github.com/ZupIT/charlescd) | [Ritchie CLI](https://github.com/ZupIT/ritchie-cli) | [Beagle](https://github.com/ZupIT/beagle) | [Horusec](https://github.com/ZupIT/horusec)
@@ -36,5 +38,3 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
   <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
 </p> -->
-
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
