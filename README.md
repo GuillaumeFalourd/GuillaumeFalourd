@@ -1,4 +1,4 @@
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuillaumeFalourd&repo=GuillaumeFalourd&countColorcountColor) 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuillaumeFalourd&repo=GuillaumeFalourd&countColorcountColor) 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
@@ -27,11 +27,12 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd&hide_border=true)
 
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+
 <p><a href="https://github.com/GuillaumeFalourd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/GuiFalourd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guillaumefalourd" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@guillaume.falourd" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="guillaume.falourd@zup.com.br" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
-<p align="center">
+<!-- <p align="center">
   <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
   <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p>
+</p> -->
