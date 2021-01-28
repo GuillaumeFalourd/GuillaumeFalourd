@@ -33,12 +33,12 @@
 
 ### Analytics ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd)
 
 <p align="left">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&langs_count=8&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&langs_count=8"/>
 </a>
 </p>
 
