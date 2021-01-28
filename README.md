@@ -4,9 +4,18 @@
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-### Introduction 🃏
+<p align="center">
+<a href="https://linkedin.com/in/guillaumefalourd"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="hhttps://twitter.com/GuiFalourd"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://medium.com/@guillaume.falourd"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="https://dev.to/guifalourd"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
+</p>
 
-My name is *Guiom*, I'm a 🇫🇷  Software Developer living in 🇧🇷 and working at [Zup Innovation](https://zup.com.br).
+
+<p align="center">
+I'm a 🇫🇷  Software Developer living in 🇧🇷 and working at Zup Innovation.
+</p>
 
 ### Languages & Tools 🛠
 
@@ -19,7 +28,9 @@ My name is *Guiom*, I'm a 🇫🇷  Software Developer living in 🇧🇷 and wo
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=092E20)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=092E20)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -50,12 +61,8 @@ My name is *Guiom*, I'm a 🇫🇷  Software Developer living in 🇧🇷 and wo
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
 </p> -->
 
-### Let's connect ? 🤝🏻
+### My dev.to posts
 
-<p align="left">
-<a href="https://linkedin.com/in/guillaumefalourd"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="hhttps://twitter.com/GuiFalourd"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://medium.com/@guillaume.falourd"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-<a href="https://dev.to/guifalourd"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
-</p>
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
