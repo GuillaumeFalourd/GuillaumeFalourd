@@ -31,15 +31,11 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
-### Let's connect 🤝🏻
-
-<p><a href="https://github.com/GuillaumeFalourd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/GuiFalourd" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guillaumefalourd" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@guillaume.falourd" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="guillaume.falourd@zup.com.br" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
-
 ### Analytics ⚙️
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd&hide_border=true)
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuillaumeFalourd&show_icons=true&&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&langs_count=8"/>
@@ -53,3 +49,13 @@ Feel free to ask me anything about ZupIT open source products: [CharlesCD](https
   <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
 </p> -->
+
+### Let's connect 🤝🏻
+
+<p align="center">
+<a href="https://linkedin.com/in/guillaumefalourd"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="hhttps://twitter.com/GuiFalourd"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://medium.com/@guillaume.falourd"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="https://dev.to/guifalourd"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
+</p>
