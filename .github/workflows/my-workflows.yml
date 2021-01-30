@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Summary Cards
+    name: Jobs to generate datas
     runs-on: ubuntu-latest
     steps:
       # Summary Cards
