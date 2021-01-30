@@ -60,7 +60,7 @@
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-#### Github Datas 🔝 
+#### References 🔝 
 
 - [Snake](https://github.com/Platane/snk)
 - [Statistics](https://github.com/anuraghazra/github-readme-stats)
