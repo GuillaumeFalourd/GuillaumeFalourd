@@ -65,4 +65,4 @@
 
 #### _References: [Snake animation](https://github.com/Platane/snk) ➕ [Statistics](https://github.com/anuraghazra/github-readme-stats) ➕ [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
 
-#### [STEP by STEP to create a similar README profile](https://bit.ly/devtoritgithubcreateprofile) ⭐️
+#### _[STEP by STEP to create a similar README profile](https://bit.ly/devtoritgithubcreateprofile) ⭐️_
