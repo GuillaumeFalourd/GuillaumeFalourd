@@ -1,8 +1,8 @@
 
 # Theme Preview
 
-Here are all cards with themes.
-| :bell: | If only show Top Languages card here, then you maybe forgot to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
+All the cards with different themes can be found here.
+| :bell: | If the 'Top Languages' card is the only one shown while using these, then you perhaps forgot to use a [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of the regular `GITHUB_TOKEN` in your workflow. |
 | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ## [default](./default/README.md)
