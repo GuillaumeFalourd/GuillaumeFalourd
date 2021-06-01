@@ -36,7 +36,14 @@
 
 ### Analytics ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd)
+<!--   ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd) -->
+
+<p align="left">
+<a href="https://github.com/GuillaumeFalourd">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd"/>
+  <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/4-productive-time.svg"/>
+</a>
+</p>
 
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
