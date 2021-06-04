@@ -54,7 +54,7 @@
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
-![Metrics](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg)
+![Metrics](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/metrics.plugin.achievements.svg)
 
 <!-- <p align="center">
   <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
