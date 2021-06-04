@@ -40,7 +40,7 @@ jobs:
   metrics-achievements:
     runs-on: ubuntu-latest
     steps:
-      - name: Achievements
+      - name: Achievements metrics
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.achievements.svg
@@ -55,7 +55,7 @@ jobs:
   metrics-github:
     runs-on: ubuntu-latest
     steps:
-      - name: Resume
+      - name: Github metrics
         uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
