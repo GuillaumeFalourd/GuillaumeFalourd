@@ -38,13 +38,6 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd)
   
-<!-- <p align="left">
-<a href="https://github.com/GuillaumeFalourd">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd"/>
-  <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/4-productive-time.svg"/>
-</a>
-</p> -->
-
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true"/>
@@ -54,7 +47,12 @@
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
-![Metrics](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/metrics.plugin.achievements.svg)
+<!-- <p align="left">
+<a href="https://github.com/GuillaumeFalourd">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd"/>
+  <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/4-productive-time.svg"/>
+</a>
+</p> -->
 
 <!-- <p align="center">
   <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
@@ -63,6 +61,7 @@
 </p> -->
 
 <!-- <img width="100%" src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg" /> -->
+<!-- ![Metrics](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/metrics.plugin.achievements.svg) -->
 
 ### Let's connect ? 🤝
 
