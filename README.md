@@ -80,4 +80,4 @@
 
 #### 👉   _[STEP by STEP to create a similar README profile](https://bit.ly/devtoritgithubcreateprofile)_
 
-#### 👉   ...or fork this repository! 😁
+#### ...or fork this repository! 😁
