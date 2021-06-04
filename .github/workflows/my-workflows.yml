@@ -1,9 +1,9 @@
 name: Generate Datas
 
 on:
+  workflow_dispatch: # execute manually
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
-  workflow_dispatch:
 
 jobs:
 
@@ -52,7 +52,7 @@ jobs:
           plugin_achievements_ignored: octonaut  # Hide octonaut achievement
           plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
 
-  metrics-resume:
+  metrics-github:
     runs-on: ubuntu-latest
     steps:
       - name: Resume
