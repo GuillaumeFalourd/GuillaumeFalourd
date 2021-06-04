@@ -36,9 +36,9 @@
 
 ### Analytics ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd)
-
 ![Metrics](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd)
   
 <!-- <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
