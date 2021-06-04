@@ -37,10 +37,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  metrics:
+  metrics-achievements:
     runs-on: ubuntu-latest
     steps:
-      - name: Metrics
+      - name: Achievements
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.achievements.svg
@@ -51,3 +51,11 @@ jobs:
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
           plugin_achievements_ignored: octonaut  # Hide octonaut achievement
           plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
+
+  metrics-resume:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Resume
+        uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
