@@ -60,6 +60,8 @@
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
 </p> -->
 
+<img width="100%" src="https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg" />
+
 ### Let's connect ? 🤝
 
 <p align="left">
