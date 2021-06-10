@@ -80,3 +80,7 @@
 #### 👉   _[STEP by STEP to create a similar README profile](https://bit.ly/devtoritgithubcreateprofile)_
 
 #### ...or fork this repository! 😁
+
+<p align="center">
+![contribution-tetris](https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif)
+</p> 
