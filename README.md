@@ -48,7 +48,7 @@
 </a>
 </p>
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+<img height="180em" src="profile-summary-card-output/github/0-profile-details.svg" />
 
 <!-- <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
