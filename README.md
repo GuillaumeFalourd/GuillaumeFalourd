@@ -48,7 +48,7 @@
 </a>
 </p>
 
-<img height="180em" src="profile-summary-card-output/github/0-profile-details.svg" />
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
 <!-- <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
@@ -82,4 +82,4 @@
 
 #### 👉   _[STEP by STEP to create a similar README profile](https://bit.ly/devtoritgithubcreateprofile)_
 
-#### ...or fork this repository! 😁
+#### ... or fork this repository! 😁
