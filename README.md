@@ -82,5 +82,5 @@
 #### ...or fork this repository! 😁
 
 <p align="center">
-  <img width="50%" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+  <img width="25%" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 </p>
