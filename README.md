@@ -74,7 +74,7 @@
 <a href="http://bit.ly/guillaumefalourdmedium"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
 <a href="http://bit.ly/guillaumefalourddevto"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/8496462/guifalourd"><img src="https://img.shields.io/badge/guifalourd-D14837?style=flat&logo=Stackoverflow&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/8496462/guifalourd"><img src="https://img.shields.io/badge/guifalourd-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
 </p>
 
 ### Customize your README profile 🧑‍💻⭐
