@@ -251,6 +251,20 @@
     border-radius: 32px;
     font-size: 12px;
   }
+  .label.label-flex {
+    display: flex;
+  }
+  .label .label-right {
+    display: flex;
+    align-items: center;
+    font-size: .7rem;
+    margin-left: 6px;
+    margin-right: -10px;
+    background-color: #58A6FF10;
+    padding: 0 7px;
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+  }
 
 /* Habits */
   .habits {
@@ -1298,7 +1312,7 @@
                   Super developer
                   
                     <span class="gh">
-                      ranked 266k out of 74m users
+                      ranked 267k out of 74m users
                     </span>
                   
                 </div>
@@ -1315,7 +1329,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="143.05924884433665 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="143.15994111499555 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1351,7 +1365,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.06666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.61666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1389,11 +1403,11 @@
                   Great influencer
                   
                     <span class="gh">
-                      ranked 13.2k out of 74m users
+                      ranked 13k out of 74m users
                     </span>
                   
                 </div>
-                                <div class="text">Followed by 324 users</div>
+                                <div class="text">Followed by 327 users</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
