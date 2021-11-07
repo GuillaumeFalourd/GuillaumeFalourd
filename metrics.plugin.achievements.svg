@@ -1503,7 +1503,7 @@
                   <span class="prefix">Super</span> developer
                   
                     <span class="gh">
-                      ranked 155k out of 79m users
+                      ranked 156k out of 79m users
                     </span>
                   
                   
@@ -1558,7 +1558,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="139.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="140.01666666666665 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1587,7 +1587,7 @@
                   
                   
                 </div>
-                                <div class="text">Opened 470 pull requests</div>
+                                <div class="text">Opened 471 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
