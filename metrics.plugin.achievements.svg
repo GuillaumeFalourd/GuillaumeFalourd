@@ -1395,9 +1395,11 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                 <h2 class="field">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/></svg>
-      Achievements
-    </h2>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
+                    </svg>
+                    Achievements
+                </h2>
                 <div class="row">
                     <section class="achievements detailed largeable-flex-wrap">
                         <div class="achievement s largeable-width-half">
@@ -1426,10 +1428,9 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Master</span> polyglot
-                  
-                  
-                </div>
+                                    <span class="prefix">Master</span>
+                                    polyglot
+                                </div>
                                 <div class="text">Using 19 different programming languages</div>
                             </div>
                         </div>
@@ -1466,10 +1467,9 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Master</span> forker
-                  
-                  
-                </div>
+                                    <span class="prefix">Master</span>
+                                    forker
+                                </div>
                                 <div class="text">Forked 23 public repositories</div>
                             </div>
                         </div>
@@ -1506,14 +1506,10 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Super</span> developer
-                  
-                    <span class="gh">
-                      ranked 156k out of 80m users
-                    </span>
-                  
-                  
-                </div>
+                                    <span class="prefix">Super</span>
+                                    developer
+                                    <span class="gh">ranked 156k out of 80m users</span>
+                                </div>
                                 <div class="text">Published 86 public repositories</div>
                             </div>
                         </div>
@@ -1547,10 +1543,9 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Super</span> member
-                  
-                  
-                </div>
+                                    <span class="prefix">Super</span>
+                                    member
+                                </div>
                                 <div class="text">Registered 5 years ago</div>
                             </div>
                         </div>
@@ -1564,7 +1559,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="147.25 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="147.76666666666668 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1589,11 +1584,10 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Great</span> contributor
-                  
-                  
-                </div>
-                                <div class="text">Opened 485 pull requests</div>
+                                    <span class="prefix">Great</span>
+                                    contributor
+                                </div>
+                                <div class="text">Opened 486 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1641,14 +1635,10 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Great</span> influencer
-                  
-                    <span class="gh">
-                      ranked 9.64k out of 80m users
-                    </span>
-                  
-                  
-                </div>
+                                    <span class="prefix">Great</span>
+                                    influencer
+                                    <span class="gh">ranked 9.65k out of 80m users</span>
+                                </div>
                                 <div class="text">Followed by 445 users</div>
                             </div>
                         </div>
@@ -1687,10 +1677,9 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Great</span> reviewer
-                  
-                  
-                </div>
+                                    <span class="prefix">Great</span>
+                                    reviewer
+                                </div>
                                 <div class="text">Reviewed 240 pull requests</div>
                             </div>
                         </div>
@@ -1721,10 +1710,9 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Great</span> worker
-                  
-                  
-                </div>
+                                    <span class="prefix">Great</span>
+                                    worker
+                                </div>
                                 <div class="text">Joined 2 organizations</div>
                             </div>
                         </div>
@@ -1752,10 +1740,9 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Verified
-                  
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Verified
+                                </div>
                                 <div class="text">Registered a GPG key to sign commits</div>
                             </div>
                         </div>
@@ -1795,10 +1782,9 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Automator
-                  
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Automator
+                                </div>
                                 <div class="text">Use GitHub Actions to automate profile updates</div>
                             </div>
                         </div>
@@ -1832,10 +1818,9 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Infographile
-                  
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Infographile
+                                </div>
                                 <div class="text">Fervent supporter of metrics</div>
                             </div>
                         </div>
