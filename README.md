@@ -25,8 +25,8 @@
 
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
-  <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg"/>
-  <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/1-repos-per-language.svg"/>
+  <img height="190em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg"/>
+  <img height="190em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/1-repos-per-language.svg"/>
 </a>
 </p>
   
