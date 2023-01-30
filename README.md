@@ -25,7 +25,7 @@
 
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
-  <img height="200em" src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/>
+  <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/>
 </a>
 </p>
 
