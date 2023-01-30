@@ -26,9 +26,11 @@
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
   <img height="200em" src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/>
-  <img height="200em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/1-repos-per-language.svg"/>
 </a>
 </p>
+
+<!--   <img height="200em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/1-repos-per-language.svg"/>
+ -->
   
 <!-- <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
@@ -42,7 +44,7 @@
 <!-- <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd"/>
-<!--   <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/4-productive-time.svg"/> -->
+  <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/4-productive-time.svg"/>
 </a>
 </p> -->
 
