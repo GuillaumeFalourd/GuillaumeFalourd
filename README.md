@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuillaumeFalourd&repo=GuillaumeFalourd&countColorcountColor)
+![Profile Views](https://komarev.com/ghpvc/?GuillaumeFalourd)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
@@ -20,9 +20,11 @@
   
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd" />
-  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 </p>  
 
+<!--   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+ -->
+ 
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
   <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/>
