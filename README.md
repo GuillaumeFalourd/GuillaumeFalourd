@@ -25,6 +25,7 @@
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
   <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/>
+  <img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg"/>
 </a>
 </p>
 
