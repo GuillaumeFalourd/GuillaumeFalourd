@@ -18,7 +18,7 @@
 
 ### Analytics ⚙️
 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7670262?color=orange&label=StackOverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/8496462)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8496462?color=orange&label=StackOverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/8496462)
 [![GitHub User's stars](https://img.shields.io/github/stars/GuillaumeFalourd?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/GuillaumeFalourd?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 <p align="left">
@@ -29,7 +29,7 @@
   
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd" />
-  <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg" />
+<!--   <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg" /> -->
 </p>  
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
