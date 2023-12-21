@@ -18,6 +18,9 @@
 
 ### Analytics ⚙️
 
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7670262?color=orange&label=StackOverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/8496462)
+[![GitHub User's stars](https://img.shields.io/github/stars/GuillaumeFalourd?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/GuillaumeFalourd?tab=repositories&q=&type=public&language=&sort=stargazers)
+
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
   <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/>
