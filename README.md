@@ -18,7 +18,7 @@
 
 ![Snyk](https://img.shields.io/badge/-Snyk-05122A?style=flat&logo=snyk) ![Sonar](https://img.shields.io/badge/-Sonar-05122A?style=flat&logo=sonar) ![Datadog](https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=datadog)
 
-![GitHub Copilot](https://img.shields.io/badge/Github-Copilot-05122A?style=flat&logo=github-copilot) ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=aws)
+![GitHub Copilot](https://img.shields.io/badge/Github-Copilot-05122A?style=flat&logo=github-copilot) ![StackSpot AI](https://img.shields.io/badge/StackSpot-AI-05122A?style=flat&logo=stackspot-ai) ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=aws)
 
 ### Analytics ⚙️
 
