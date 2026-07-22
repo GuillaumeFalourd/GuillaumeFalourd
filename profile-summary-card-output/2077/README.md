@@ -15,10 +15,50 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/2077/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/2077/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/2077/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/2077/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/2077/4-productive-time.svg)
 ```
 
     
